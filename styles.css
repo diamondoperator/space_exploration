@@ -1,0 +1,46 @@
+/*colors using coolors
+cornsilk: #F8EECCff;
+dark-sienna: #4D171Dff;
+cool-grey: #8D98B5ff;
+rich-black-fogra-39: #020103ff;
+dark-byzantium: #513A4Eff;
+*/
+
+body {
+    margin: 0;
+    color:#F8EECCff;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#hero {
+    background-image: url("https://media.giphy.com/media/l3c614V12UA82q1vG/giphy-downsized-large.gif");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+#main-logo {
+    width: 100px;
+}
+
+#title {
+    text-shadow: 0px 0px 4px black;
+}
+
+.btn {
+    padding: 6px 12px;
+    background:#F8EECCff;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: #4D171Dff;
+    font-weight: 800;
+}
+
+.underline {
+    border-bottom: 4px solid #F8EECCff;
+}
+h3{
+    color:#4D171Dff;
+}
+
+   
